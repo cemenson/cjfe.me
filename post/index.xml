@@ -47,6 +47,101 @@
     </item>
     
     <item>
+      <title>Concepts of Electricity</title>
+      <link>https://cjfe.me/post/concepts-of-electricity/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cjfe.me/post/concepts-of-electricity/</guid>
+      
+      <description>&lt;h1 id=&#34;a-worn-analogy&#34;&gt;A Worn Analogy&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Imagine electricity as the flow of water through a pipe…&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is a typical, albeit rudimentary, analogy given when learning about concepts of electricity. Its aim is to provides a somewhat intuitive understanding, but largely result in attaching words, such as &amp;ldquo;voltage&amp;rdquo; and &amp;ldquo;current&amp;rdquo;, to properties of water, such as pressure and speed, with little real correlation.&lt;/p&gt;
+&lt;p&gt;Once explored, the properties of electricity deviate from that of flowing water; to gain a robust understanding, another form of intuitive understanding must be explored.&lt;/p&gt;
+&lt;h1 id=&#34;first-principles&#34;&gt;First Principles&lt;/h1&gt;
+&lt;p&gt;Analogies can be helpful, but have the possibility to lead us astray. Thankfully, we can work from first principles to build a new intuitive understanding based on fundamental truths.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s analyse the following statement,&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;b&gt;Electrical current is the flow of charge over time.&lt;/b&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;p&gt;Let&amp;rsquo;s define the following terms: &lt;strong&gt;flow&lt;/strong&gt;, &lt;strong&gt;charge&lt;/strong&gt;, and &lt;strong&gt;current&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Flow&lt;/strong&gt; is simply &lt;em&gt;movement&lt;/em&gt;; the flow of charge is the movement of charge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charge&lt;/strong&gt; is a &lt;em&gt;property of matter carried by some subatomic particles&lt;/em&gt;, being &lt;em&gt;negative&lt;/em&gt; or &lt;em&gt;positive&lt;/em&gt; - think how roses are &lt;em&gt;red&lt;/em&gt; and sugar is &lt;em&gt;sweet&lt;/em&gt;. Some subatomic particles are either negatively or positively charged; those that are neither are said to have &lt;em&gt;no charge&lt;/em&gt;. More on this later.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Current&lt;/strong&gt; thus is the &lt;em&gt;movement&lt;/em&gt; of &lt;em&gt;positive or negative subatomic particles&lt;/em&gt; over time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This does however raise a new question: &lt;em&gt;what are subatomic particles?&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;atoms-and-subatomic-particles&#34;&gt;Atoms and Subatomic Particles&lt;/h1&gt;
+&lt;p&gt;To understand subatomic particles, we need to first be introduced to atoms.&lt;/p&gt;
+&lt;p&gt;Atoms are, in essence, fantastically tiny units of matter from which practically everything in existence is made. They are the &lt;em&gt;smallest unit into which matter can be divided &lt;strong&gt;without the release of electrically charged particles&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s that word again, &lt;em&gt;charge&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;If atoms are the smallest units before the release of charged particles, then what are these charged particles that make an atom? They&amp;rsquo;re &amp;ldquo;sub&amp;rdquo;-atomic particles, and luckily for us there are only three types we need concern ourselves with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Protons&lt;/strong&gt; are &lt;em&gt;positively&lt;/em&gt; charged subatomic particles located in an atom’s nucleus. The number of protons, or &lt;em&gt;atomic number&lt;/em&gt;, determines what element the atom is (carbon, hydrogen, oxygen etc.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Neutrons&lt;/strong&gt; are also found in the nucleus, and are subatomic particles that carry &lt;em&gt;no charge&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electrons&lt;/strong&gt; are &lt;em&gt;negatively&lt;/em&gt; charged subatomic particles found &lt;em&gt;orbiting&lt;/em&gt; the atom&amp;rsquo;s nucleus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;img src=https://cjfe.me/atom.png style=&#34;width: 50%&#34;&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div align=&#34;center&#34;&gt;Figure 1.1 Atom&lt;br&gt;&lt;/div&gt;&lt;/img&gt;
+&lt;p&gt;Protons and neutrons are made of even smaller components, known as &lt;em&gt;elementary&lt;/em&gt; particles. Simply put, these are particles that cannot be reduced any further; electrons are just such a type of particle.&lt;/p&gt;
+&lt;p&gt;Charges behave similarly to magnetism (in fact, magnetism is the result of the behaviour of these charged particles). Positive and negative charges attract each other, whilst charges of the same type repel one another; protons and electrons attract each other, whilst two electrons or two protons will repel each other.&lt;/p&gt;
+&lt;p&gt;The number of protons and electrons within an atom are &lt;em&gt;usually&lt;/em&gt; equal, resulting in a zero net charge − a balance in the positive and negative charges that &lt;em&gt;cancel each other out&lt;/em&gt;. When the number of protons and electrons is not equal the atom becomes charged, and is called an ion. Atoms with a surplus of electrons, and thus a negative net charge, are known as negative ions. Atoms with a lack of electrons, and thus a positive net charge, are known as positive ions.&lt;/p&gt;
+&lt;p&gt;Ions are atoms that are in a state of &lt;em&gt;unrest&lt;/em&gt; and their unbalanced charge often results in changes and movements to their local environment, all aiming to balance, or neutralise, the charge.&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;img src=https://cjfe.me/bohr-model.png style=&#34;width: 80%&#34;&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div align=&#34;center&#34;&gt;Figure 1.2 Bohr Model&lt;br&gt;&lt;/div&gt;&lt;/img&gt;
+&lt;p&gt;The Bohr Model above provides an alternate view of an atom, with emphasis on the location of electrons.&lt;/p&gt;
+&lt;p&gt;Similar to how objects can fall in and out of gravitational orbits, electrons may fall in and out the of orbit of their atoms. This can occur as they interact with other nearby charges; positive force attracting or negative forces repelling the electron. It can also occur when an electron becomes excited (more on excited electrons later).&lt;/p&gt;
+&lt;p&gt;With some intuition, we can understand that electrons farthest away from their nucleus (green orbit in the Bohr Model above) will experience the least pull, and will be affected most by external charges. The outermost orbit, or shell, is called the valence shell; electrons found here are called valence electrons. These electrons are the ones that succumb the most to the effects of other nearby charges.&lt;/p&gt;
+&lt;p&gt;Electrons that are easily enticed away from their local atom are called free or &lt;em&gt;delocalised&lt;/em&gt; electrons. Materials made of atoms with an abundance in these types of electrons are called electrical conductors (coppers, silver, and most other metals); those lacking in delocalised electrons are called insulators (wood, rubber etc.). Finally, there are some materials that fall somewhere in the middle, call &lt;em&gt;semiconductors&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;When many electrons, each carrying a negative charge, leave their orbits and travel in a given direction, they create a &lt;em&gt;flow of charge&lt;/em&gt;. If we were to look at this flow, and count the charged particles moving by a certain point in one second, we would call this the &lt;em&gt;electric current&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;As electrons are incredibly tiny, we measure them in &lt;em&gt;coulombs&lt;/em&gt;; a coulomb is the combined charge of $6.241 \cdot 10^{18}$ charged particles. Electric current could be said to be the flow of coulombs (or $6.241 \cdot 10^{18}$ charged particles) over time.&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;h3&gt; . . . &lt;br&gt;&lt;/h3&gt;&lt;/div&gt;
+&lt;p&gt;We touched on electron excitation when discussing the reasons an electron may fall out of its orbit. Electron excitation is the measure of how much energy an electron “contains”. Think of a ball attached to one end of a rubber band, with the other end held in your hand. As you swing the ball around, the ball orbits your hand. The faster you swing the ball, the faster it travels and the more the band stretches. If you were to hit something with this ball, the faster you are spinning it the more damage it will do. The more energy the ball has, the faster and further it orbits. Now, replace the ball with an electron, your hand with a nucleus, and the rubber band with the attractive force caused by the negative and positive charges of the particles. We should be picturing something that looks quite similar to the Bohr Model shown earlier.&lt;/p&gt;
+&lt;p&gt;As you can imagine, the ball will, given enough energy, break free of its orbit and travel outwards until its energy is transferred to another object or form. The same holds true for an electron; when sufficiently excited, an electron will leave the orbit of an atom and, for example, collide with another electron, transferring its energy.&lt;/p&gt;
+&lt;h1 id=&#34;voltage&#34;&gt;Voltage&lt;/h1&gt;
+&lt;p&gt;With this in mind, let us come to the concept of voltage. The official, or most widely used, definition of voltage is the &lt;em&gt;measure of difference in electrical potential between two points&lt;/em&gt;. An alternate definition could be:&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;b&gt;&lt;i&gt;Voltage is the difference in electron excitation between the two points.&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;
+&lt;p&gt;When electrons have a relatively low excitation, they move relatively slowly. As they excite sufficiently, their escape from atomic orbit, combined with their repellent charges, create a pushing force that sends delocalised electrons flowing in a particular direction; this is electric current. Think of many magnets that repel each other being pushed through a pipe from one end.&lt;/p&gt;
+&lt;p&gt;By increasing the voltage, and thus increasing the excitation of the electrons, we increase this pushing force and subsequently increase the electric current. As electrons are pushed away from their atoms, they leave behind positive ions. These positive ions in turn attract the incoming negative electrons in the current.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;div align=&#34;center&#34;&gt;&lt;img src=https://cjfe.me/electron-flow.png style=&#34;width: 80%&#34;&gt;&lt;br&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;Figure 1.3 Electron Flow&lt;br&gt;&lt;/div&gt;&lt;/img&gt;
+&lt;p&gt;One concept remains, which I call electron &lt;em&gt;relaxation&lt;/em&gt;: what happens when an electron loses its energy.&lt;/p&gt;
+&lt;p&gt;Electrons are naturally unstable when excited, and have a unique way of expelling their energy. Referring back to our Bohr Model, you may notice a small, wavy red line at the point where an electron is jumping excitation stages. This wavy line signifies a new particle we have yet to cover: the &lt;em&gt;photon&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;div align=&#34;center&#34;&gt;&lt;img src=https://cjfe.me/photon-release.png style=&#34;width: 65%&#34;&gt;&lt;br&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;Figure 1.4 Photon Release&lt;br&gt;&lt;/div&gt;&lt;/img&gt;
+&lt;p&gt;When an electron falls to a lower atomic orbit, it releases its energy by spontaneously creating a photon.&lt;/p&gt;
+&lt;p&gt;A photon is a tiny subatomic particle, an &lt;em&gt;energy packet of electromagnetic radiation&lt;/em&gt;. In other words, a particle of light. Electrons can both release them and absorb them.&lt;/p&gt;
+&lt;p&gt;Different types of atoms emit photons at different frequencies (called the &lt;em&gt;emission spectrum&lt;/em&gt;) as their electrons fall into lower orbits and release their energy; hydrogen atoms may release different types of electromagnetic rays than iron, for example. Theoretically, we could understand the type of atoms a substance is made from based upon the electromagnetic rays being emitted.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;div align=&#34;center&#34;&gt;&lt;img src=https://cjfe.me/electromagnetic-spectrum.png style=&#34;width: 60%&#34;&gt;&lt;br&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;Figure 1.5 Electromagnetic Spectrum&lt;br&gt;&lt;/div&gt;&lt;/img&gt;
+&lt;h1 id=&#34;resistance&#34;&gt;Resistance&lt;/h1&gt;
+&lt;p&gt;One final concept remains: &lt;em&gt;resistance&lt;/em&gt;; the measure of how much an electric current is resisted by a particular component.&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;img src=https://cjfe.me/lattice.png style=&#34;width: 40%&#34;&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div align=&#34;center&#34;&gt;Figure 1.6 Atomic Lattice&lt;br&gt;&lt;/div&gt;&lt;/img&gt;
+&lt;p&gt;As electrons flow, they travel past atoms that are arranged in a lattice. Some electrons passing through this lattice will inevitably collide with either the atom&amp;rsquo;s nucleus or its electrons. When this occurs, the excited electrons transfer their energy to the particles they have collided with; a nucleus collision results in the nucleus vibrating and releasing heat, whereas an electron collision results in the newly excited electron either going on to collide with further particles, having been “pushed” out of orbit, or releasing its energy as a photon − which again will go on to collide and transfer energy to surrounding particles.&lt;/p&gt;
+&lt;p&gt;Collisions act as a resistance to the electric current; they slow down and reduce the amount of current able to flow, whilst simultaneously extracting some, or potentially all, of the voltage (electron excitation) by way of conversion to thermal energy or light. By increasing or decreasing these collisions, we can increase or decrease resistance.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;div align=&#34;center&#34;&gt;&lt;img src=https://cjfe.me/electron-collision.png style=&#34;width: 60%&#34;&gt;&lt;br&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;Figure 1.7 Electron Collision&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/img&gt;
+&lt;p&gt;Resistance could be said to be the measure of how much electric current is resisted by a component due to the number of collisions that occur between the current’s electrons and the component’s atoms.&lt;/p&gt;
+&lt;p&gt;We can intuitively understand how resistance can increase or decrease based upon various factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Heat&lt;/strong&gt; - nucleus collisions cause vibration, resulting in heat. Practically everything has an inherent amount of heat, meaning that practically all atoms forming an object have an inherent amount of vibration. Vibrating atoms will collide more with passing electrons than static atoms. As a component becomes hotter, its atoms vibrate more vigorously, resulting in more collisions and thus more resistance. The opposite is true as a component cools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Defects&lt;/strong&gt; - Almost all crystalline structures have imperfections. The atoms may be slightly unaligned or take another form that does not conform to the rest of the structure. When this occurs, it impedes the flow of the electrons, which again causes more collisions and thus more resistance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impurities&lt;/strong&gt; - Similar to defects, impurities in a material result in a slight change in the crystalline structure, as the atom may bond differently or be larger than the surrounding atoms. If a component has many impurities, the structure becomes less consistent and collisions will increase.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometry&lt;/strong&gt; - By increasing the length of a resistive substance, a current must travel for a longer distance, thus exposing the electrons to more collisions and more resistance. Similarly, a thinner component will accept less electrons, causing more resistance than a thicker component.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Often, it seems we are not taught the more &amp;ldquo;complex&amp;rdquo; details of electricity (such as photons). Maybe this is because it is not deemed vital, or is an effort to &amp;ldquo;shield&amp;rdquo; us from too much information. However, I do believe these details to be vital in ensuring a robust understanding. I also believe that these concepts are not too difficult to grasp. Explained correctly from first principles and with the appropriate analogies, I think we can understand more than we would have originally expected.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Rising for Purpose</title>
       <link>https://cjfe.me/post/rising-for-purpose/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
